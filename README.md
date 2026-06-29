@@ -2,8 +2,6 @@
 
 A compact media dock for Vivaldi's vertical tab bar, built around fast access to active media, artwork-aware styling, and a focused mini-player UI.
 
-This repository currently showcases the **compact dock experience first**. Expanded and visualizer shots can be added later, but the README now reflects the compact states you wanted to keep.
-
 ## Screenshots
 
 | Preview | What it shows |
@@ -20,21 +18,6 @@ A compact dock state showing paused media while preserving quick track context i
 - supports playback controls, seeking, volume handling, and media cycling
 - applies artwork-influenced theming to make the dock feel integrated with the current track
 - includes richer behavior in the script for expanded controls and audio-reactive visuals
-
-## Current focus of this README
-
-For now, this README is intentionally centered on the compact dock presentation:
-
-- compact media card styling
-- track and source visibility
-- minimal always-available media context
-
-As you add more approved screenshots, this can grow into a fuller gallery covering:
-
-- expanded state
-- progress and timing controls
-- visualizer-active state
-- alternate artwork and theme variations
 
 ## Installation
 
