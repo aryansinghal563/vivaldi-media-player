@@ -6,8 +6,8 @@ A compact media dock for Vivaldi's vertical tab bar, built around fast access to
 
 | Preview | State | Description |
 |---|---|---|
-| ![Compact dock playing view](screenshots/compact-primary.jpg) | **Compact view · playing** | Active playback with artwork, title, and source visible in a minimal footprint. |
-| ![Compact dock paused view](screenshots/compact-secondary.jpg) | **Compact view · paused** | Paused media with quick track context preserved in the same lightweight layout. |
+| ![Compact dock playing view](screenshots/compact-playing.jpg) | **Compact view · playing** | Active playback with artwork, title, and source visible in a minimal footprint. |
+| ![Compact dock paused view](screenshots/compact-paused.jpg) | **Compact view · paused** | Paused media with quick track context preserved in the same lightweight layout. |
 
 ## What it does
 
