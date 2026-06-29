@@ -4,15 +4,14 @@ A compact media dock for Vivaldi's vertical tab bar, built around fast access to
 
 This repository currently showcases the **compact dock experience first**. Expanded and visualizer shots can be added later, but the README now reflects the compact states you wanted to keep.
 
-## Compact preview
+## Screenshots
 
-### Compact view · primary
-
-![Compact dock primary view](screenshots/compact-primary.jpg)
-
-### Compact view · secondary
-
-![Compact dock secondary view](screenshots/compact-secondary.jpg)
+| Preview | What it shows |
+|---|---|
+| ![Compact dock playing view](screenshots/compact-primary.jpg) | **Compact view · playing**  
+A compact dock state showing active playback while keeping artwork, title, and source visible in a minimal footprint. |
+| ![Compact dock paused view](screenshots/compact-secondary.jpg) | **Compact view · paused**  
+A compact dock state showing paused media while preserving quick track context in the same lightweight layout. |
 
 ## What it does
 
